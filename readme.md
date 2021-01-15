@@ -26,6 +26,8 @@ path_to/setup.bat react_app_name
   }
 ```
 ## build rust code when ever needed 
-cd react_app_name
-npm run build-native-dev
+```
+cd react_app_name  
+npm run build-native-dev  
 npm run start
+```
